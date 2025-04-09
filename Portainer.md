@@ -1,5 +1,7 @@
-Configuration management tool for Docker Swarm. GUI for Docker Docker swarm managment with 3 nodes.
-Please see steps below.
+Tasks:
+1. Configuration management tool for Docker Swarm.
+2. GUI for Docker Docker swarm managment with 3 nodes.
+3. Verify the process is working
 
 ![Docker_1](https://github.com/Denogithub/Portainer_Project/assets/118014979/89834c62-f6f7-4a77-a3a7-68ebf32e7362)
 ![Docker_2](https://github.com/Denogithub/Portainer_Project/assets/118014979/f78cdf9d-2b67-478e-93ac-f691002e9fc8)
