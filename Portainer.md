@@ -1,3 +1,4 @@
+Portainer Management of Application Nodes
 Tasks:
 1. Configuration management tool for Docker Swarm.
 2. GUI for Docker Docker swarm managment with 3 nodes.
